@@ -1,6 +1,6 @@
 {
   "name": "about-paskalouis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Inquiry CLI app to help people learn about me",
   "main": "index.js",
   "repository": "https://github.com/Paskalouis/about-paskalouis.git",
