@@ -1,0 +1,31 @@
+{
+    "Education": [
+        "Budi Mulia High School",
+        "Bachelor of Computer Science on Bina Nusantara University"
+    ],
+    "Current Job": [
+        "Front End Engineer at PT. Bukalapak"
+    ],
+    "Past Experience": [
+        "Full-stack Developer at PT. W3O Indo Scientia"
+    ],
+    "Tech Stack": [
+        "Javascript",
+        "NodeJS",
+        "VueJS",
+        "ExpressJS",
+        "SailsJS",
+        "Golang",
+        "Ruby on Rails",
+        "HTML CSS SASS",
+        "Handlebars, HAML, Pug"
+    ],
+    "Projects": [
+        "Check it out more on my Linkedin :)"
+    ],
+    "Contact": [
+        "paska.louis@gmail.com",
+        "recoganjen@gmail.com",
+        "https://www.linkedin.com/in/paskalouis/"
+    ]
+}
